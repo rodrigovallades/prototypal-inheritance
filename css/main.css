@@ -1,0 +1,20 @@
+.debug {
+    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+    font-size: 14px;
+    width: 350px;
+    height: 350px;
+    background-color:#ccc;
+    float: left;
+    padding: 10px;
+    margin: 0 0 0 10px;    
+    overflow: auto;
+    text-align: left;
+}
+    .debug table {
+        width: 100%;
+    }
+    .debug tbody tr {
+        padding: 3px 0;
+        border-bottom: 1px solid #a5a5a5;
+        display: block;
+    }
